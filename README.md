@@ -50,10 +50,4 @@ Records are saved in `student_management/students.json` and remain available the
 - JSON data storage
 - Error handling with `try` and `except`
 
-## Screenshots
 
-See the `screenshots/` folder for examples of adding, viewing, and searching student records.
-
-## Note
-
-This is a learning project. Update the sample personal details in `fundamentals/01_variables.py` before submitting if required.
